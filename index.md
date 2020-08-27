@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Nothing here yet
 
-You can use the [editor on GitHub](https://github.com/raindrift/polybook/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We just launched the survey, so there's nothing to see yet. When it's done, we'll post our analysis here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you want to answer it, [it can be found here.](http://survey.polybook.org)
 
-### Markdown
+Thanks!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Privacy
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raindrift/polybook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+All survey responses are anonymous, unless you choose to give us your contact information. Analysis will be shared only in aggregate, and, as mentioned, we're using it to inform our writing on a book to be published. This may include publishing aggregate data on our website here, in our book, or in a research paper. No non-numerical data will be quoted or reproduced without explicit permission from someone who has explicitly opted to be contacted. The raw data resides on the SurveyGizmo platform, which has data protections above and beyond anything we could guarantee as private individuals. Anyone interested can read about their encryption and safety policies [here](https://help.surveygizmo.com/help/surveygizmo-security-overview). We will move this data to our own computers for analysis, and then delete it when the analysis has concluded. It will not reside on any other cloud service.
